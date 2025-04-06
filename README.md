@@ -25,7 +25,7 @@ This project implements a machine learning-based system for detecting and analyz
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/nageshwarpatel7/networksecurity
 cd NetworkSecurity
 ```
 
